@@ -26,8 +26,8 @@ A lightweight and user-friendly menu bar application for macOS that allows quick
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/macdns.git
-cd macdns
+git clone https://github.com/makalin/MacDNS.git
+cd MacDNS
 ```
 
 2. Install the required dependencies:
